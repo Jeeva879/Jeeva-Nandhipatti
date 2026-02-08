@@ -1,6 +1,6 @@
 # Jeeva Nandhipatti 
 
-🎓 **Electronics and Communication Engineering Graduate (2025)**
+🎓 **Electronics and Communication Engineering Graduate (2025)** |
  💻 **VLSI Design Verification | ASIC / SoC Verification**
 
 I am an ECE graduate with a strong interest in **VLSI Design Verification**, particularly in **ASIC and SoC verification environments**. I am actively building skills in **Verilog**, **SystemVerilog** and **UVM**, with hands-on practice in writing testbenches, assertions, coverage models, and automation scripts.
