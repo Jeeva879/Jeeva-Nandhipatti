@@ -1,4 +1,4 @@
-# Jeeva-Nandhipatti 
+# Jeeva Nandhipatti 
 
 **Electronics and Communication Engineering Graduate (2025)**
 **VLSI Design Verification | ASIC / SoC Verification**
